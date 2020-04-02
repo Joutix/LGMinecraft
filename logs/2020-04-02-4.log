@@ -1,0 +1,33 @@
+[12:37:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:37:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:37:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:24] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[12:37:25] [Server thread/INFO]: Loading properties
+[12:37:25] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:25] [Server thread/INFO]: Generating keypair
+[12:37:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:37:25] [Server thread/INFO]: Using default channel type
+[12:37:26] [Server thread/INFO]: Preparing level "world"
+[12:37:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:37:28] [Server thread/INFO]: Loaded 6 recipes
+[12:37:28] [Server thread/INFO]: Loaded 825 advancements
+[12:37:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:32] [Server thread/INFO]: Preparing spawn area: 27%
+[12:37:34] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:37:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[12:37:34] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:37:34] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:37:35] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:37:35] [Server-Worker-4/INFO]: Preparing spawn area: 84%
+[12:37:36] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[12:37:36] [Server-Worker-3/INFO]: Preparing spawn area: 98%
+[12:37:36] [Server thread/INFO]: Time elapsed: 7085 ms
+[12:37:36] [Server thread/INFO]: Done (9.982s)! For help, type "help"
